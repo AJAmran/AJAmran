@@ -15,39 +15,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; margin: 20px">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin: 20px; text-align: center;"">
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/512/732/732212.png"
           alt="Icon"
-          style="width: 40px; height: 40px"
+          style="width: 40px; height: 40px;" 
         />
-        <h5 style="color: rgb(13, 12, 12); margin: 0">HTML</h5>
+         <h5 style="color: rgb(13, 12, 12); margin: 0;">HTML</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/512/732/732190.png"
@@ -57,17 +37,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">css</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
@@ -77,17 +47,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">JavaScript</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"
@@ -97,17 +57,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">BootStrap</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png"
@@ -117,17 +67,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Tailwind</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"
@@ -137,17 +77,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">React</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/512/919/919825.png"
@@ -157,17 +87,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Node</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
@@ -176,17 +96,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Express</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"
@@ -195,17 +105,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">MongoDB</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
@@ -214,17 +114,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">TypeScript</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"
@@ -233,17 +123,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Next js</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn.worldvectorlogo.com/logos/redux.svg"
@@ -252,17 +132,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Redux</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
@@ -271,17 +141,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Git</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"
@@ -290,17 +150,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Firebase</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://static-00.iconduck.com/assets.00/framer-icon-2048x2048-msauaaio.png"
@@ -309,17 +159,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Framer</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
@@ -328,17 +168,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Sass</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png"
@@ -347,17 +177,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Figma</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
@@ -366,17 +186,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Photoshop</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png"
@@ -385,17 +195,7 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Illustrator</h5>
       </div>
       <div
-        style="
-          display: flex;
-          align-items: center;
-          gap: 5px;
-          width: 120px;
-          padding: 10px;
-          border-radius: 5px;
-          background-color: rgb(216, 210, 210);
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-          text-align: center;
-        "
+      style="width: 120px; padding: 10px; border-radius: 5px; background-color: rgb(216, 210, 210); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
       >
         <img
           src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"
@@ -404,7 +204,6 @@
         <h5 style="color: rgb(13, 12, 12); margin: 0">Postman</h5>
       </div>
     </div>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajamran&show_icons=true&locale=en&layout=compact" alt="ajamran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajamran&show_icons=true&locale=en" alt="ajamran" /></p>
