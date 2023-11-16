@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; margin: 20px">
       <div
         style="
           display: flex;
