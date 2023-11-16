@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MD Amran Hossen</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h1 align="center" style="font-family: 'Dancing Script', cursive; color: #333; font-size: 3rem;">Hi 👋, I'm MD Amran Hossen</h1>
+<h3 align="center" style="font-family: 'Raleway', sans-serif; color: #666; font-size: 1.5rem;">A passionate MERN Stack developer</h3>
 <img align="center" alt="codding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajamran&label=Profile%20views&color=0e75b6&style=flat" alt="ajamran" /> </p>
