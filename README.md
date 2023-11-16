@@ -5,15 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajamran&label=Profile%20views&color=0e75b6&style=flat" alt="ajamran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajamran" alt="ajamran" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mdamran29290306" target="blank"><img src="https://img.shields.io/twitter/follow/mdamran29290306?logo=twitter&style=for-the-badge" alt="mdamran29290306" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://lighthearted-pony-b0e3a9.netlify.app/?fbclid=IwAR37alAUj4YJO5JW_TVbF6YXoQixhCcVMA-CJhco0sFIEOxkL_5aUWSgfKc](https://lighthearted-pony-b0e3a9.netlify.app/?fbclid=IwAR37alAUj4YJO5JW_TVbF6YXoQixhCcVMA-CJhco0sFIEOxkL_5aUWSgfKc)
-
-- 📫 How to reach me **mdamrahossen77@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uxmyLMzGOV1XwQO_l-weNLIOjDIm2WnU/view?usp=sharing](https://drive.google.com/file/d/1uxmyLMzGOV1XwQO_l-weNLIOjDIm2WnU/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/md-amran-hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="md-amran-hossen" height="30" width="40" /></a>
