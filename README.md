@@ -1,4 +1,4 @@
-##How about "Crafting Digital Experiences: Web Developer Extraordinaire"? It encapsulates your expertise in web development and hints at your dedication to creating engaging online experiences.
+## How about "Crafting Digital Experiences: Web Developer Extraordinaire"? It encapsulates your expertise in web development and hints at your dedication to creating engaging online experiences.
 
 
 ## 🌐 Socials:
