@@ -32,13 +32,13 @@ I thrive on building **modern, scalable, and user-friendly web applications** us
 ---
 
 ## 📈 GitHub Stats:
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AJAmran&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=radical&hide_border=false" alt="GitHub Streak Stats" height="150" />
 </div>
 
 ### 🏆 GitHub Trophies:
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=onedark&row=1&column=6&no-frame=true" alt="GitHub Trophies">
 </div>
 
@@ -79,7 +79,8 @@ A fully functional e-commerce platform that provides users with a seamless onlin
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=react-dark)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=AJAmran&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 ## 🤝 Let’s Connect:
 Whether you have an exciting project, an opportunity, or just want to talk tech, feel free to reach out!  
 📩 **Email**: [mdamranhossen77gmail.com](mailto:mdamranhossen77@gmail.com)  
