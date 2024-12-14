@@ -67,19 +67,18 @@ A fully functional e-commerce platform that provides users with a seamless onlin
 - **[QR-Code-Generator](https://github.com/AJAmran/QR-Code-Generator.git)**: This QR Code Generator is a modern, professional web application that allows users to create and customize QR codes. Built using React and Tailwind CSS, it provides an intuitive interface with various customization options to generate visually appealing QR codes. Users can adjust the color, size, error correction level, and even add a logo to the QR code.
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=AJAmran&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 ## 🧩 Dynamic Features:
 - **💡 Dev Quotes:**  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+  ---
+  
 - **🎨 Random Developer Meme:**  
   ![Meme](https://rm.up.railway.app)
 
 - **📊 GitHub Activity Graph:**  
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=react-dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=AJAmran&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 ## 🤝 Let’s Connect:
 Whether you have an exciting project, an opportunity, or just want to talk tech, feel free to reach out!  
