@@ -44,6 +44,10 @@ I thrive on building **modern, scalable, and user-friendly web applications** us
 
 ---
 
+- **📊 GitHub Activity Graph:**  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=react-dark)
+---
+
 ## 🚀 Featured Projects:
 ### 🌟 [Bangabandhu International Conference Center](https://bicc-bd.com)
 A comprehensive event management website designed for the Bangabandhu International Conference Center. Users can browse upcoming events, book tickets, and access detailed venue information.  
@@ -74,12 +78,6 @@ A fully functional e-commerce platform that provides users with a seamless onlin
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   ---
   
-- **🎨 Random Developer Meme:**  
-  ![Meme](https://rm.up.railway.app)
-
-- **📊 GitHub Activity Graph:**  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=react-dark)
----
 ## 🤝 Let’s Connect:
 Whether you have an exciting project, an opportunity, or just want to talk tech, feel free to reach out!  
 📩 **Email**: [mdamranhossen77gmail.com](mailto:mdamranhossen77@gmail.com)  
