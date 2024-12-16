@@ -44,8 +44,8 @@ I thrive on building **modern, scalable, and user-friendly web applications** us
 
 ---
 
-- **📊 GitHub Activity Graph:**  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=react-dark)
+### 📊 GitHub Activity Graph:**  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=react-dark)
 ---
 
 ## 🚀 Featured Projects:
