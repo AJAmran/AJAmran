@@ -14,7 +14,7 @@ I thrive on building **modern, scalable, and user-friendly web applications** us
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-amran-hossen-713574206)  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MdAmran29290306)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-amran-hossen-713574206)  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MdAmran29290306)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://mdamranhossen.netlify.app)
 
 ---
 
