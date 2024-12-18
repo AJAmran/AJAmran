@@ -1,4 +1,5 @@
 # 👋 Hi there! Welcome to my GitHub Profile  
+
 I’m **Md Amran Hossen**, a passionate **Full Stack Web Developer** from **Dhaka, Bangladesh**.  
 I thrive on building **modern, scalable, and user-friendly web applications** using the latest technologies. My goal is to deliver impactful solutions that enhance businesses and enrich user experiences.
 
@@ -56,15 +57,24 @@ I thrive on building **modern, scalable, and user-friendly web applications** us
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=radical&hide_border=false" alt="GitHub Streak Stats" height="150" />
 </div>
 
-### 🏆 GitHub Trophies:
+---
+
+## 📊 Most Used Languages:
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=onedark&row=1&column=6&no-frame=true" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 </div>
 
 ---
 
 ### 📊 GitHub Activity Graph:**  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=react-dark)
+
+---
+## 🏆 GitHub Trophies:
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=onedark&row=1&column=6&no-frame=true" alt="GitHub Trophies">
+</div>
+
 ---
 
 ## 🚀 Featured Projects:
@@ -86,18 +96,22 @@ A fully functional e-commerce platform that provides users with a seamless onlin
 ---
 
 ## 🗂️ Open Source Contributions:
-- **[image-compressure](https://github.com/AJAmran/image-compressure.git)**: Image Compressor is a powerful web application that allows users to effortlessly compress multiple images while maintaining quality. The application provides a simple and intuitive interface, enabling users to upload, preview, and download their images in a web-friendly format. This tool is designed for photographers, designers, and anyone who needs to optimize images for web use.
-- **[QR-Code-Generator](https://github.com/AJAmran/QR-Code-Generator.git)**: This QR Code Generator is a modern, professional web application that allows users to create and customize QR codes. Built using React and Tailwind CSS, it provides an intuitive interface with various customization options to generate visually appealing QR codes. Users can adjust the color, size, error correction level, and even add a logo to the QR code.
+- **[image-compressure](https://github.com/AJAmran/image-compressure.git)**: A powerful web application for compressing images while maintaining quality.  
+- **[QR-Code-Generator](https://github.com/AJAmran/QR-Code-Generator.git)**: A modern QR Code Generator with customization options.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AJAmran&icon=0&color=0)](https://visitcount.itsvg.in)
----
+
 ## 🧩 Dynamic Features:
 - **💡 Dev Quotes:**  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-  ---
-  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AJAmran&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 ## 🤝 Let’s Connect:
 Whether you have an exciting project, an opportunity, or just want to talk tech, feel free to reach out!  
-📩 **Email**: [mdamranhossen77gmail.com](mailto:mdamranhossen77@gmail.com)  
+📩 **Email**: [mdamranhossen77@gmail.com](mailto:mdamranhossen77@gmail.com)  
 🌐 **Website**: [Visit My Portfolio](https://mdamranhossen.netlify.app/)
