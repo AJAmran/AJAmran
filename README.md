@@ -1,82 +1,57 @@
-# 👋 Hi there! Welcome to my GitHub Profile  
-
-I’m **Md Amran Hossen**, a passionate **Full Stack Web Developer** from **Dhaka, Bangladesh**.  
-I thrive on building **modern, scalable, and user-friendly web applications** using the latest technologies. My goal is to deliver impactful solutions that enhance businesses and enrich user experiences.
-
----
-
-## 💡 A Few Things About Me:
-- 🔭 Currently working on **cutting-edge MERN stack projects**.  
-- 🌱 Learning **DevOps** and exploring **Serverless Architecture**.  
-- 🧩 Passionate about **UI/UX design** and creating **accessible, responsive interfaces**.  
-- 🎯 Focused on writing **clean, maintainable, and scalable code**.  
-- 📧 Reach out to me: **mdamranhossen77@gmail.com**
+# <h1 align="center">👋 Hi there! Welcome to my GitHub Profile  </h1>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/AJAmran">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=06D6A0&center=true&vCenter=true&lines=Hello,+I'm+Md+Amran+Hossen!;Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+about+Tech!" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-amran-hossen-713574206)  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MdAmran29290306)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://mdamranhossen.netlify.app)
+## 🚀 About Me
+- 👨‍💻 Full Stack Developer (MERN & JavaScript Ecosystem)
+- 🔭 Currently working on **Web & App Development**
+- 🎯 Passionate about **Open Source, Cloud & AI**
+- 🌱 Learning **DevOps & Advanced Backend Scaling**
+- 💬 Ask me about **JavaScript, React, Node.js, Next.js, MongoDB**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/mdamranhossen) | [Email](mailto:your-email@example.com)**
 
 ---
 
-## 🛠️ My Tech Stack:
-### 🚀 Frontend Development:
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![ES6](https://img.shields.io/badge/ES6-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![ShadcnUI](https://img.shields.io/badge/ShadcnUI-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
-### 🛠️ Backend Development:
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Mongoose](https://img.shields.io/badge/Mongoose-%2300C7B7.svg?style=for-the-badge&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-green?style=for-the-badge&logo=rest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### 🚀 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,python" alt="Tech Stack" />
+</p>
 
-### 🔥 Tools & Platforms:
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,vercel" alt="Tools & Platforms" />
+</p>
 
 ---
 
-## 📈 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AJAmran&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=radical&hide_border=false" alt="GitHub Streak Stats" height="150" />
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AJAmran&theme=radical&show_icons=true&count_private=true" height="165px" />
+  <img src="https://streak-stats.demolab.com/?user=AJAmran&theme=radical" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=github-dark" />
+</p>
 
 ---
 
-## 📊 Most Used Languages:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
-</div>
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
+</p>
 
 ---
-
-### 📊 GitHub Activity Graph:**  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=react-dark)
-
----
-## 🏆 GitHub Trophies:
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=onedark&row=1&column=6&no-frame=true" alt="GitHub Trophies">
-</div>
-
----
-
 ## 🚀 Featured Projects:
 ### 🌟 [Bangabandhu International Conference Center](https://bicc-bd.com)
 A comprehensive event management website designed for the Bangabandhu International Conference Center. Users can browse upcoming events, book tickets, and access detailed venue information.  
@@ -94,24 +69,22 @@ A fully functional e-commerce platform that provides users with a seamless onlin
 **Tech Stack:** React, Tailwind CSS, @tanstack/react-query, Firebase, Express, MongoDB, Sweetalert2, Framer Motion.
 
 ---
+## 🌎 Connect with Me
 
-## 🗂️ Open Source Contributions:
-- **[image-compressure](https://github.com/AJAmran/image-compressure.git)**: A powerful web application for compressing images while maintaining quality.  
-- **[QR-Code-Generator](https://github.com/AJAmran/QR-Code-Generator.git)**: A modern QR Code Generator with customization options.
+<p align="center">
+  <a href="https://linkedin.com/in/mdamranhossen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧩 Dynamic Features:
-- **💡 Dev Quotes:**  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AJAmran&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## 🤝 Let’s Connect:
-Whether you have an exciting project, an opportunity, or just want to talk tech, feel free to reach out!  
-📩 **Email**: [mdamranhossen77@gmail.com](mailto:mdamranhossen77@gmail.com)  
-🌐 **Website**: [Visit My Portfolio](https://mdamranhossen.netlify.app/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AJAmran&label=Profile%20Views&color=06D6A0&style=flat" />
+</p>
