@@ -14,7 +14,7 @@
 - 🎯 Passionate about **Open Source, Cloud & AI**
 - 🌱 Learning **DevOps & Advanced Backend Scaling**
 - 💬 Ask me about **JavaScript, React, Node.js, Next.js, MongoDB**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/mdamranhossen) | [Email](mailto:your-email@example.com)**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/md-amran-hossen-713574206) | [Email](mailto:mdamranhossen77@gmail.com)**
 
 ---
 
@@ -72,15 +72,15 @@ A fully functional e-commerce platform that provides users with a seamless onlin
 ## 🌎 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mdamranhossen" target="_blank">
+  <a href="[https://linkedin.com/in/mdamranhosse](https://www.linkedin.com/in/md-amran-hossen-713574206/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mdamranhossen77@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+ <a href="https://mdamranhossen.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" />
+</a>
 </p>
 
 ---
