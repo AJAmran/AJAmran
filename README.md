@@ -1,4 +1,4 @@
-# <h1 align="center">👋 Hi there! Welcome to my GitHub Profile  </h1>
+# <p align="center">👋 Hi there! Welcome to my GitHub Profile  </p>
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/AJAmran">
