@@ -128,8 +128,8 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 ## 🐍 Activity Adventure
 
-<div style="border: 2px solid #00E5FF; border-radius: 14px; padding: 15px; background: #0D1117; display: inline-block;">
-  <p align="center" style="margin-top: 0; color: #00E5FF; font-family: 'Fira Code', monospace; font-weight: bold; letter-spacing: 2px;">
+<div style="border: 2px solid #3B82F6; border-radius: 14px; padding: 15px; background: #0D1117; display: inline-block;">
+  <p align="center" style="margin-top: 0; color: #3B82F6; font-family: 'Fira Code', monospace; font-weight: bold; letter-spacing: 2px;">
      🕹️ CODING GAME : SYSTEM_LOAD_SUCCESSFUL
   </p>
   <picture>
@@ -140,7 +140,7 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 </div>
 
 <p align="center">
-  <sub style="color:#8A2BE2;">My commits transformed into a neon-reactive ecosystem.</sub>
+  <sub style="color:#3B82F6;">My commits transformed into a deep bluish reactive ecosystem.</sub>
 </p>
 
 </div>
