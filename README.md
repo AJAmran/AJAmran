@@ -76,17 +76,33 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 <div align="center">
 
-## 📈 Engineering Insights & Metrics
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=vision-friendly-dark&bg_color=0D1117&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJAmran&theme=radical" width="100%" />
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Main_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Specialization-MERN_Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190em" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=radical&hide_border=true" height="190em" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=vision-friendly-dark&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Professional Background
+
+**Web Developer** | *X-group Chain Restaurant & Hospitality Management*  
+*Specializing in hospitality management platforms and internal tools.*
+
+---
+
+**B.Sc. in Computer Science & Engineering** | *The Institution of Engineers, Bangladesh (IEB)*
 
 </div>
 
@@ -118,6 +134,10 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AJAmran&label=Engineering%20Authority%20Score&color=00D1FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=AJAmran&label=Engineering%20Authority%20Score&color=F85D7F&style=flat-square" />
+
+<p>
+  <i>"Relentlessly pursuing pixel-perfect engineering and sub-second performance."</i>
+</p>
 
 </div>
