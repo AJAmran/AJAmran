@@ -111,14 +111,14 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 ## 🐍 Activity Adventure
 
 <div style="border: 2px solid #F85D7F; border-radius: 12px; padding: 15px; background: #0D1117; display: inline-block;">
-  <p align="center" style="margin-top: 0; color: #F85D7F; font-family: 'Fira Code', monospace; font-weight: bold;">
-    🕹️ CODING GAME : SYSTEM_LOAD_SUCCESSFUL
+  <p align="center" style="margin-top: 0; color: #F8D866; font-family: 'Fira Code', monospace; font-weight: bold; letter-spacing: 2px;">
+     🎮 CODING GAME : SYSTEM_LOAD_SUCCESSFUL
   </p>
   <img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
 
 <p align="center">
-  <sub>My commits transformed into a dynamic ecosystem.</sub>
+  <sub>My commits transformed into a neon-reactive ecosystem.</sub>
 </p>
 
 </div>
