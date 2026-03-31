@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/AJAmran">
-    <img src="https://img.shields.io/github/followers/AJAmran?label=FOLLOWERS&style=for-the-badge&color=F85D7F" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/AJAmran?label=FOLLOWERS&style=for-the-badge&color=F85D7F&labelColor=231f20" alt="Followers" />
   </a>
   <a href="https://github.com/AJAmran?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AJAmran?label=TOTAL%20STARS&style=for-the-badge&color=F8D866" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/AJAmran?label=TOTAL%20STARS&style=for-the-badge&color=F8D866&labelColor=231f20" alt="Stars" />
   </a>
   <a href="https://mdamranhossen.netlify.app/">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-101010?style=for-the-badge&logo=react&logoColor=F85D7F" />
+    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-7F3FBF?style=for-the-badge&logo=react&logoColor=white&labelColor=231f20" alt="Portfolio" />
   </a>
 </p>
 
@@ -108,9 +108,18 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 <div align="center">
 
-## 🐍 Activity Snake
+## 🐍 Activity Adventure
 
-<img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" alt="Snake" />
+<div style="border: 2px solid #F85D7F; border-radius: 12px; padding: 15px; background: #0D1117; display: inline-block;">
+  <p align="center" style="margin-top: 0; color: #F85D7F; font-family: 'Fira Code', monospace; font-weight: bold;">
+    🕹️ CODING GAME : SYSTEM_LOAD_SUCCESSFUL
+  </p>
+  <img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
+<p align="center">
+  <sub>My commits transformed into a dynamic ecosystem.</sub>
+</p>
 
 </div>
 
