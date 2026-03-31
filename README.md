@@ -1,22 +1,22 @@
-# <p align="center">🏛️ MD. AMRAN HOSSEN | SOLUTIONS ARCHITECT 🏛️</p>
+# <p align="center">🏛️ MD. AMRAN HOSSEN | FULL STACK DEVELOPER 🏛️</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Solutions%20Architect&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Engineering%20High-ROI%20Digital%20Systems&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Full%20Stack%20Development&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Specializing%20in%20MERN%20|%20Next.js%20Architecture&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Architecting+Scalable+SaaS+Ecosystems;Optimizing+Next.js+15+Architecture;Engineering+High-Performance+Backends;Building+ROI-Driven+Digital+Assets" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Building+Scalable+MERN+Ecosystems;Mastering+Next.js+Applications;Engineering+Modern+Web+Solutions;Turning+Ideas+into+Digital+Assets" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/AJAmran">
+    <img src="https://img.shields.io/github/followers/AJAmran?label=Followers&style=for-the-badge&color=00D1FF" alt="Followers" />
+  </a>
+  <a href="https://github.com/AJAmran?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AJAmran?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="Stars" />
+  </a>
   <a href="https://mdamranhossen.netlify.app/">
-    <img src="https://img.shields.io/badge/STUDIO_PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=00D1FF" />
-  </a>
-  <a href="https://wa.me/+8801857692587">
-    <img src="https://img.shields.io/badge/CONSULT_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-amran-hossen-713574206/">
-    <img src="https://img.shields.io/badge/LINKEDIN_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-101010?style=for-the-badge&logo=react&logoColor=00D1FF" />
   </a>
 </p>
 
@@ -24,15 +24,15 @@
 
 <div align="center">
 
-## ⚡ Engineering Philosophy & Business Impact
+## ⚡ Engineering Philosophy & Impact
 
-I bridge the gap between complex technical requirements and high-conversion user experiences. With **2+ years of professional experience** and **15+ enterprise deployments**, I specialize in building systems that are **scalable, secure, and revenue-driving.**
+I bridge the gap between technical requirements and user-centric experiences. With **2+ years of professional experience** and **15+ high-performance projects**, I specialize in building systems that are **scalable, secure, and user-friendly.**
 
-> *"Code is a liability; logic is the asset. I engineer systems that prioritize scalability, sub-second latency, and pixel-perfect design."*
+> *"My development philosophy centers on writing clean, maintainable code while staying at the forefront of industry trends."*
 
-| **🚀 Performance** | **🛡️ Scalability** | **💎 Innovation** |
+| **🚀 Performance** | **🛡️ Clean Code** | **💎 Innovation** |
 | :--- | :--- | :--- |
-| **90+ Core Web Vitals** scores. Maximizing SEO and user retention through speed. | Clean, **SOLID-compliant** codebases built for 100k+ concurrent users. | Early adopter of **Next.js 15**, Server Actions, and AI-driven UI integration. |
+| **Optimized Web Vitals**. Focused on high-speed user experiences. | Consistent **SOLID** principles for maintainable codebases. | Rapidly adopting and mastering modern web technologies. |
 
 </div>
 
@@ -40,20 +40,20 @@ I bridge the gap between complex technical requirements and high-conversion user
 
 <div align="center">
 
-## 🛠️ The Tech Ecosystem
+## 🛠️ Technical Arsenal
 
-### 💠 Frontend Engineering & UI/UX
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,sass,threejs,figma" />
-
-<br/>
-
-### 💠 Backend & Distributed Systems
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,docker,linux,nginx" />
+### 💠 Frontend Engineering
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,materialui,figma" />
 
 <br/>
 
-### 💠 DevOps & Strategic Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,vitest" />
+### 💠 Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman,linux" />
+
+<br/>
+
+### 💠 Tools & Ecosystem
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 
 </div>
 
@@ -61,14 +61,14 @@ I bridge the gap between complex technical requirements and high-conversion user
 
 <div align="center">
 
-## 🏛️ Enterprise Case Studies (Selected Work)
+## 🏛️ Featured Projects
 
-| Platform | Core Solution | Key Impact | Launch |
-| :--- | :--- | :--- | :--- |
-| **[X-Mart Super Shop](https://x-mart-client.vercel.app/)** | POS & Inventory Lifecycle | Engineered a full-stack ERP for retail management. | [Live](https://x-mart-client.vercel.app/) |
-| **[Gadget Load](https://gadgetload.com/)** | High-Traffic E-Commerce | Integrated real-time tracking and dynamic pricing logic. | [Live](https://gadgetload.com/) |
-| **[BCFCC Official](https://bcfccbd.com/)** | Hospitality Booking Engine | Developed a centralized venue booking portal. | [Live](https://bcfccbd.com/) |
-| **[XHTI Portal](https://xhtibd.com/)** | Multi-role LMS Platform | Built a scalable student & course management dashboard. | [Live](https://xhtibd.com/) |
+| Platform | Core Solution | Launch |
+| :--- | :--- | :--- |
+| **[X-mart Super Shop](https://x-mart-client.vercel.app/)** | ERP for retail management | [Live](https://x-mart-client.vercel.app/) |
+| **[Gadget Load](https://gadgetload.com/)** | E-Commerce Platform | [Live](https://gadgetload.com/) |
+| **[BCFCC Official](https://bcfccbd.com/)** | Hospitality Booking Portal | [Live](https://bcfccbd.com/) |
+| **[XHTI Portal](https://xhtibd.com/)** | Educational Management | [Live](https://xhtibd.com/) |
 
 </div>
 
@@ -85,21 +85,10 @@ I bridge the gap between complex technical requirements and high-conversion user
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=vision-friendly-dark&bg_color=0D1117&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-## 💼 Career Snapshot
-
-**Senior Web Developer** | *X-group Chain Restaurant & Hospitality Management*  
-*Spearheading digital transformation and internal ERP management solutions.*
-
----
-
-**B.Sc. in Computer Science & Engineering** | *The Institution of Engineers, Bangladesh (IEB)*  
-*Core Focus: System Architecture and Performance Optimization.*
+<img src="https://streak-stats.demolab.com/?user=AJAmran&theme=vision-friendly-dark&hide_border=true&background=0D1117" height="180em" />
+<img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=darkhub&no-bg=true&no-frame=true&margin-w=10" height="180em" />
 
 </div>
 
@@ -107,7 +96,22 @@ I bridge the gap between complex technical requirements and high-conversion user
 
 <div align="center">
 
-## 🐍 Contribution Ecosystem
+## 💼 Professional Background
+
+**Web Developer** | *X-group Chain Restaurant & Hospitality Management*  
+*Specializing in hospitality management platforms and internal tools.*
+
+---
+
+**B.Sc. in Computer Science & Engineering** | *The Institution of Engineers, Bangladesh (IEB)*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Activity Snake
 
 <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=AJAmran&grid_colors=0D1117,11aaff,11aaff,11aaff,11aaff&snake_color=FFFFFF" alt="Snake" />
 
@@ -123,7 +127,7 @@ I bridge the gap between complex technical requirements and high-conversion user
   <img src="https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/md-amran-hossen-713574206/">
-  <img src="https://img.shields.io/badge/LinkedIn_Direct-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/+8801857692587">
   <img src="https://img.shields.io/badge/WhatsApp_Consult-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
