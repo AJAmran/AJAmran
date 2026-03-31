@@ -2,14 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Automatically runs every 24 hours
+    - cron: "0 */24 * * *" # Runs every 24 hours
   workflow_dispatch: # Allows manual run in the Actions tab
   push:
     branches:
     - main
 
 permissions:
-  contents: write # CRITICAL: Gives permission to push the snake to your repo
+  contents: write 
 
 jobs:
   generate:
@@ -20,12 +20,9 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # The line below creates the high-contrast Gold snake on a Purple/Pink grid
+          github_user_name: AJAmran
           outputs: |
-            # Light Mode Snake
             dist/github-contribution-grid-snake.svg?color_snake=#00E5FF&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            # Dark Mode Snake
             dist/github-contribution-grid-snake-dark.svg?color_snake=#00E5FF&color_dots=#0D1117,#1A1425,#2C1A4A,#3D1A6D,#8A2BE2
             
       - name: push github-contribution-grid-snake.svg to the output branch
