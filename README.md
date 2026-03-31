@@ -127,7 +127,10 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 ## 🐍 Activity Adventure
 
-<div style="border: 2px solid #00D1FF; border-radius: 12px; padding: 20px; background: #0D1117; display: inline-block;">
+<div style="border: 2px solid #28a745; border-radius: 12px; padding: 20px; background: #0D1117; display: inline-block;">
+  <p align="center" style="margin-top: 0; color: #28a745; font-family: 'Fira Code', monospace; font-weight: bold; letter-spacing: 3px;">
+      [ ⚙️ SYSTEM_BUILD : AJAmran_v2_SUCCESS ]
+  </p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg">
@@ -136,7 +139,7 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 </div>
 
 <p align="center">
-  <sub style="color:#00D1FF;">My commits transformed into a neon-bluish contribution architecture.</sub>
+  <sub style="color:#28a745;">My commits transformed into a classic green contribution architecture.</sub>
 </p>
 
 </div>
