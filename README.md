@@ -1,7 +1,7 @@
 # <p align="center">🏛️ MD. AMRAN HOSSEN | FULL STACK DEVELOPER 🏛️</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Full%20Stack%20Development&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Specializing%20in%20MERN%20|%20Next.js%20Architecture&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Full%20Stack%20Architecture&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Specializing%20in%20MERN%20•%20Next.js%20Performance&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@
 
 I bridge the gap between technical requirements and user-centric experiences. With **2+ years of professional experience** and **15+ high-performance projects**, I specialize in building systems that are **scalable, secure, and user-friendly.**
 
-> *"My development philosophy centers on writing clean, maintainable code while staying at the forefront of industry trends."*
+> *"Clean code is my priority; maintainable architecture is my goal."*
 
 | **🚀 Performance** | **🛡️ Clean Code** | **💎 Innovation** |
 | :--- | :--- | :--- |
-| **Optimized Web Vitals**. Focused on high-speed user experiences. | Consistent **SOLID** principles for maintainable codebases. | Rapidly adopting and mastering modern web technologies. |
+| Optimized Web Vitals & sub-second latency. | Consistent SOLID principles. | Early adopter of Next.js 15+ features. |
 
 </div>
 
@@ -63,7 +63,7 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 ## 🏛️ Featured Projects
 
-| Platform | Core Solution | Launch |
+| Platform | Core Solution | Status |
 | :--- | :--- | :--- |
 | **[X-mart Super Shop](https://x-mart-client.vercel.app/)** | ERP for retail management | [Live](https://x-mart-client.vercel.app/) |
 | **[Gadget Load](https://gadgetload.com/)** | E-Commerce Platform | [Live](https://gadgetload.com/) |
@@ -78,17 +78,15 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 ## 📈 Engineering Insights & Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=AJAmran&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" height="190em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00D1FF" height="190em" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=vision-friendly-dark&bg_color=0D1117&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=AJAmran&theme=vision-friendly-dark&hide_border=true&background=0D1117" height="180em" />
-<img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=darkhub&no-bg=true&no-frame=true&margin-w=10" height="180em" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Specialization-MERN_Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
 </div>
 
@@ -96,24 +94,9 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 <div align="center">
 
-## 💼 Professional Background
+## 🐍 Contribution Ecosystem
 
-**Web Developer** | *X-group Chain Restaurant & Hospitality Management*  
-*Specializing in hospitality management platforms and internal tools.*
-
----
-
-**B.Sc. in Computer Science & Engineering** | *The Institution of Engineers, Bangladesh (IEB)*
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Activity Snake
-
-<img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=AJAmran&grid_colors=0D1117,11aaff,11aaff,11aaff,11aaff&snake_color=FFFFFF" alt="Snake" />
+<img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" alt="Snake" />
 
 </div>
 
@@ -136,9 +119,5 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=AJAmran&label=Engineering%20Authority%20Score&color=00D1FF&style=flat-square" />
-
-<p>
-  <i>"Relentlessly pursuing pixel-perfect engineering and sub-second performance."</i>
-</p>
 
 </div>
