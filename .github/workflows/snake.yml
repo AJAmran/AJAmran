@@ -23,8 +23,10 @@ jobs:
           github_user_name: AJAmran
           # ULTRA VISIBILITY PALETTE (Pure Neon Cyan Snake on Shadow Purple Grid)
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00FFFF&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FFFF&color_dots=#0D1117,#1A1425,#3D1A6D,#7F3FBF,#00E5FF
+            # Light Mode Bluish Snake
+            dist/github-contribution-grid-snake.svg?color_snake=#3B82F6&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            # Dark Mode Deep Bluish Snake
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#3B82F6&color_dots=#0D1117,#003d4d,#007a99,#3B82F6,#00FFFF
             
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
