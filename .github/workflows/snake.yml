@@ -23,7 +23,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # The line below creates the high-contrast Gold snake on a Purple/Pink grid
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#7F3FBF&color_dots=#0D1117,#1A1425,#2C1A4A,#3D1A6D,#7F3FBF
+            # Light Mode Snake
+            dist/github-contribution-grid-snake.svg?color_snake=#00E5FF&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            # Dark Mode Snake
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00E5FF&color_dots=#0D1117,#1A1425,#2C1A4A,#3D1A6D,#8A2BE2
             
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
