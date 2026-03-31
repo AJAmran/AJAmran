@@ -1,22 +1,20 @@
-# <p align="center">🏛️ MD. AMRAN HOSSEN | FULL STACK DEVELOPER 🏛️</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Full%20Stack%20Architecture&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Specializing%20in%20MERN%20•%20Next.js%20Performance&descAlignY=55&descSize=18" />
+# <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F85D7F,7F3FBF,F85D7F&height=280&section=header&text=Md.%20Amran%20Hossen&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20|%20Next.js%20Architecture&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Building+Scalable+MERN+Ecosystems;Mastering+Next.js+Applications;Engineering+Modern+Web+Solutions;Turning+Ideas+into+Digital+Assets" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=Building+Scalable+MERN+Ecosystems;Mastering+Next.js+Applications;Engineering+Modern+Web+Solutions;Turning+Ideas+into+Digital+Assets" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AJAmran">
-    <img src="https://img.shields.io/github/followers/AJAmran?label=Followers&style=for-the-badge&color=00D1FF" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/AJAmran?label=FOLLOWERS&style=for-the-badge&color=F85D7F" alt="Followers" />
   </a>
   <a href="https://github.com/AJAmran?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AJAmran?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/AJAmran?label=TOTAL%20STARS&style=for-the-badge&color=F8D866" alt="Stars" />
   </a>
   <a href="https://mdamranhossen.netlify.app/">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-101010?style=for-the-badge&logo=react&logoColor=00D1FF" />
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-101010?style=for-the-badge&logo=react&logoColor=F85D7F" />
   </a>
 </p>
 
@@ -32,7 +30,7 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 | **🚀 Performance** | **🛡️ Clean Code** | **💎 Innovation** |
 | :--- | :--- | :--- |
-| Optimized Web Vitals & sub-second latency. | Consistent SOLID principles. | Early adopter of Next.js 15+ features. |
+| <font color="#F85D7F">Optimized Web Vitals</font> | <font color="#7F3FBF">SOLID Principles</font> | <font color="#F8D866">Next.js 15+ Advanced</font> |
 
 </div>
 
@@ -43,7 +41,7 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 ## 🛠️ Technical Arsenal
 
 ### 💠 Frontend Engineering
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,materialui,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,materialui,figma&perline=12" />
 
 <br/>
 
@@ -82,8 +80,8 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 <br/>
 
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190em" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=radical&hide_border=true" height="190em" />
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="195em" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=radical&hide_border=true" height="195em" />
 
 <br/>
 
@@ -110,7 +108,7 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 <div align="center">
 
-## 🐍 Contribution Ecosystem
+## 🐍 Activity Snake
 
 <img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" alt="Snake" />
 
@@ -123,7 +121,7 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 ## 🤝 Let's Design the Future
 
 <a href="mailto:mdamranhossen77@gmail.com">
-  <img src="https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Direct_Email-F85D7F?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/md-amran-hossen-713574206/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
