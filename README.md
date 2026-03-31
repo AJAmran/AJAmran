@@ -1,20 +1,20 @@
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7F3FBF,2D1E4A,7F3FBF&height=280&section=header&text=Md.%20Amran%20Hossen&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20|%20Next.js%20Architecture&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,0D1117,00E5FF&height=280&section=header&text=Md.%20Amran%20Hossen&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20|%20Next.js%20Architecture&descAlignY=55&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&lines=Building+Scalable+MERN+Ecosystems;Mastering+Next.js+Applications;Engineering+Modern+Web+Solutions;Turning+Ideas+into+Digital+Assets" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Scalable+MERN+Ecosystems;Mastering+Next.js+Applications;Engineering+Modern+Web+Solutions;Turning+Ideas+into+Digital+Assets" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AJAmran">
-    <img src="https://img.shields.io/github/followers/AJAmran?label=FOLLOWERS&style=for-the-badge&color=7F3FBF&labelColor=0D1117" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/AJAmran?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
   </a>
   <a href="https://github.com/AJAmran?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AJAmran?label=TOTAL%20STARS&style=for-the-badge&color=7F3FBF&labelColor=0D1117" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/AJAmran?label=TOTAL%20STARS&style=for-the-badge&color=8A2BE2&labelColor=0D1117" />
   </a>
   <a href="https://mdamranhossen.netlify.app/">
-    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=7F3FBF&labelColor=0D1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=0D1117" />
   </a>
 </p>
 
@@ -28,9 +28,9 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 > *"Clean code is my priority; maintainable architecture is my goal."*
 
-| **🚀 Performance** | **🛡️ Clean Code** | **💎 Innovation** |
+| 🚀 Performance | 🛡️ Clean Code | 💎 Innovation |
 | :--- | :--- | :--- |
-| <font color="#7F3FBF">Optimized Web Vitals</font> | <font color="#7F3FBF">SOLID Principles</font> | <font color="#7F3FBF">Next.js 15+ Advanced</font> |
+| <span style="color:#00E5FF">Optimized Web Vitals</span> | <span style="color:#8A2BE2">SOLID Principles</span> | <span style="color:#00E5FF">Next.js 15+ Advanced</span> |
 
 </div>
 
@@ -63,10 +63,10 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 | Platform | Core Solution | Status |
 | :--- | :--- | :--- |
-| **[X-mart Super Shop](https://x-mart-client.vercel.app/)** | ERP for retail management | [Live](https://x-mart-client.vercel.app/) |
-| **[Gadget Load](https://gadgetload.com/)** | E-Commerce Platform | [Live](https://gadgetload.com/) |
-| **[BCFCC Official](https://bcfccbd.com/)** | Hospitality Booking Portal | [Live](https://bcfccbd.com/) |
-| **[XHTI Portal](https://xhtibd.com/)** | Educational Management | [Live](https://xhtibd.com/) |
+| **[X-mart Super Shop](https://x-mart-client.vercel.app/)** | ERP for retail management | 🚀 Live |
+| **[Gadget Load](https://gadgetload.com/)** | E-Commerce Platform | 🚀 Live |
+| **[BCFCC Official](https://bcfccbd.com/)** | Hospitality Booking Portal | 🚀 Live |
+| **[XHTI Portal](https://xhtibd.com/)** | Educational Management | 🚀 Live |
 
 </div>
 
@@ -80,12 +80,13 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 <br/>
 
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF" height="195em" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" height="195em" />
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&border_color=00E5FF&bg_color=0D1117&title_color=8A2BE2&icon_color=00E5FF" height="195em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF" height="195em" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=tokyonight&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=tokyonight&bg_color=0D1117&color=00E5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -96,7 +97,7 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 ## 💼 Professional Background
 
 **Web Developer** | *X-group Chain Restaurant & Hospitality Management*  
-*Specializing in hospitality management platforms and internal tools.*
+*Specializing in scalable hospitality platforms & internal tools.*
 
 ---
 
@@ -110,15 +111,15 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 
 ## 🐍 Activity Adventure
 
-<div style="border: 2px solid #7F3FBF; border-radius: 12px; padding: 15px; background: #0D1117; display: inline-block;">
-  <p align="center" style="margin-top: 0; color: #7F3FBF; font-family: 'Fira Code', monospace; font-weight: bold; letter-spacing: 2px;">
+<div style="border: 2px solid #00E5FF; border-radius: 14px; padding: 15px; background: #0D1117; display: inline-block;">
+  <p align="center" style="margin-top: 0; color: #00E5FF; font-family: 'Fira Code', monospace; font-weight: bold; letter-spacing: 2px;">
      🕹️ CODING GAME : SYSTEM_LOAD_SUCCESSFUL
   </p>
-  <img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" />
 </div>
 
 <p align="center">
-  <sub>My commits transformed into a neon-reactive ecosystem.</sub>
+  <sub style="color:#8A2BE2;">My commits transformed into a neon-reactive ecosystem.</sub>
 </p>
 
 </div>
@@ -130,21 +131,21 @@ I bridge the gap between technical requirements and user-centric experiences. Wi
 ## 🤝 Let's Design the Future
 
 <a href="mailto:mdamranhossen77@gmail.com">
-  <img src="https://img.shields.io/badge/Direct_Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Direct_Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000" />
 </a>
 <a href="https://www.linkedin.com/in/md-amran-hossen-713574206/">
-  <img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/+8801857692587">
-  <img src="https://img.shields.io/badge/WhatsApp_Consult-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AJAmran&label=Engineering%20Authority%20Score&color=7F3FBF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=AJAmran&label=PROFILE%20VIEWS&color=00E5FF&style=flat-square" />
 
 <p>
-  <i>"Relentlessly pursuing pixel-perfect engineering and sub-second performance."</i>
+  <i style="color:#00E5FF;">"Relentlessly pursuing pixel-perfect engineering and sub-second performance."</i>
 </p>
 
 </div>
