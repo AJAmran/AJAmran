@@ -1,168 +1,242 @@
-# <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3B82F6,0D1117,00D1FF&height=280&section=header&text=Md.%20Amran%20Hossen&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20|%20Next.js%20Architecture&descAlignY=55&descSize=20" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=850&lines=Building+Scalable+MERN+Ecosystems;Mastering+Next.js+Applications;Engineering+Modern+Web+Solutions;Turning+Ideas+into+Digital+Assets" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AJAmran">
-    <img src="https://img.shields.io/github/followers/AJAmran?label=FOLLOWERS&style=for-the-badge&color=00D1FF&labelColor=0D1117" alt="Followers" />
-  </a>
-  <a href="https://github.com/AJAmran?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AJAmran?label=TOTAL%20STARS&style=for-the-badge&color=3B82F6&labelColor=0D1117" alt="Stars" />
-  </a>
-  <a href="https://mdamranhossen.netlify.app/">
-    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=00D1FF&labelColor=0D1117" alt="Portfolio" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
-## ⚡ Engineering Philosophy & Impact
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Md.%20Amran%20Hossen&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer&descSize=20&descAlignY=55" />
 
-I bridge the gap between technical requirements and user-centric experiences. With **2+ years of professional experience** and **15+ high-performance projects**, I specialize in building systems that are **scalable, secure, and user-friendly.**
-
-> *"Clean code is my priority; maintainable architecture is my goal."*
-
-| **🚀 Performance** | **🛡️ Clean Code** | **💎 Innovation** |
-| :--- | :--- | :--- |
-| <span style="color:#00D1FF;">Optimized Web Vitals</span> | <span style="color:#3B82F6;">SOLID Principles</span> | <span style="color:#00D1FF;">Next.js 15+ Advanced</span> |
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Technical Arsenal
-
-### 💠 Frontend Engineering
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,materialui,figma&perline=12" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=780&lines=Next.js+%2F+Node.js+%2F+TypeScript;Full-Stack+Architecture+%26+API+Design;Enterprise+%26+Hospitality+Systems;Performance-Focused+Engineering" />
 
 <br/>
 
-### 💠 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman,linux" />
+<a href="https://mdamranhossen.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-amran-hossen-713574206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mdamranhossen77@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/+8801857692587"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/AJAmran?label=Followers&style=flat-square&color=3B82F6&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/AJAmran?label=Stars&style=flat-square&color=3B82F6&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=AJAmran&label=Profile%20Views&color=3B82F6&style=flat-square" />
+
+</div>
 
 <br/>
 
-### 💠 Tools & Ecosystem
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+## About
 
-</div>
+Full-stack engineer with 2+ years of experience building production web applications in the hospitality technology sector — dashboards, ERP-style internal tools, booking systems, and customer-facing platforms built on the Next.js / Node.js stack.
 
----
+I focus on full-stack architecture, REST API design, authentication, and performance — writing code that's maintainable first and fast second, because the two usually come from the same decisions.
+
+<br/>
+
+## Focus Areas
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Architecture & API**
+- Full-stack architecture, schema to UI
+- REST API design & authentication
+- Role-based access control
+
+</td>
+<td width="50%" valign="top">
+
+**Performance & SEO**
+- Core Web Vitals
+- Rendering strategy (SSR / ISR / CSR)
+- Caching, image & bundle optimization
+- Technical SEO for SSR apps
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Systems**
+- Dashboards & admin panels
+- ERP-style internal tools
+- CMS platforms
+
+</td>
+<td width="50%" valign="top">
+
+**Domain**
+- Hospitality technology
+- Retail / e-commerce platforms
+- Booking & reservation systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts&perline=10" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,sass,html,css&perline=10" />
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" />
+
+**Databases & ORM**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,firebase&perline=10" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" colspan="2">
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,netlify,figma&perline=10" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [X-Mart Super Shop](https://x-mart-client.vercel.app/)
+ERP-style system for retail management
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+**[Live Demo →](https://x-mart-client.vercel.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+### [Gadget Load](https://gadgetload.com/)
+E-commerce platform
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+**[Live Demo →](https://gadgetload.com/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [BCFCC Official](https://bcfccbd.com/)
+Hospitality booking portal
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+**[Live Demo →](https://bcfccbd.com/)**
+
+</td>
+<td width="50%" valign="top">
+
+### [XHTI Portal](https://xhtibd.com/)
+Educational management platform
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+**[Live Demo →](https://xhtibd.com/)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Experience
+
+**Web Developer** — X-Group Chain Restaurant & Hospitality Management
+Building internal tools and customer-facing platforms for hospitality operations. *(2+ years)*
+
+## Education
+
+**B.Sc. in Computer Science & Engineering** — The Institution of Engineers, Bangladesh (IEB)
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
-
-## 🏛️ Featured Projects
-
-| Platform | Core Solution | Status |
-| :--- | :--- | :--- |
-| **[X-mart Super Shop](https://x-mart-client.vercel.app/)** | ERP for retail management | 🚀 **[Live](https://x-mart-client.vercel.app/)** |
-| **[Gadget Load](https://gadgetload.com/)** | E-Commerce Platform | 🚀 **[Live](https://gadgetload.com/)** |
-| **[BCFCC Official](https://bcfccbd.com/)** | Hospitality Booking Portal | 🚀 **[Live](https://bcfccbd.com/)** |
-| **[XHTI Portal](https://xhtibd.com/)** | Educational Management | 🚀 **[Live](https://xhtibd.com/)** |
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJAmran&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJAmran&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJAmran&theme=tokyonight" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </picture>
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&border_color=00D1FF&bg_color=0D1117&title_color=3B82F6&icon_color=00D1FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=default&border_color=00D1FF&title_color=3B82F6&icon_color=00D1FF">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&border_color=00D1FF&bg_color=0D1117&title_color=3B82F6&icon_color=00D1FF" height="195em">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D1FF&ring=3B82F6&fire=00D1FF&currStreakLabel=00D1FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=default&hide_border=true&stroke=00D1FF&ring=3B82F6&fire=00D1FF&currStreakLabel=00D1FF">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D1FF&ring=3B82F6&fire=00D1FF&currStreakLabel=00D1FF" height="195em">
-  </picture>
-</div>
-
-<br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=tokyonight&bg_color=0D1117&color=00D1FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=github&color=00D1FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=tokyonight&bg_color=0D1117&color=00D1FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=tokyonight&hide_border=true" width="97%">
 </picture>
 
-</div>
+<br/><br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=tokyo-night&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=github-compact&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=tokyo-night&hide_border=true" width="97%">
+</picture>
 
-<div align="center">
+<br/><br/>
 
-## 💼 Professional Background
-
-**Web Developer** | *X-group Chain Restaurant & Hospitality Management* *Specializing in scalable hospitality platforms & internal tools.*
-
----
-
-**B.Sc. in Computer Science & Engineering** | *The Institution of Engineers, Bangladesh (IEB)*
+<img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
-
----
-
-<div align="center">
-
-## 🐍 Activity Adventure
-
-<div style="border: 2px solid #28a745; border-radius: 12px; padding: 20px; background: #0D1117; display: inline-block;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" alt="Snake" />
-  </picture>
-</div>
-
-<p align="center">
-  <sub style="color:#28a745;">My commits transformed into a classic green contribution architecture.</sub>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Design the Future
-
-<a href="mailto:mdamranhossen77@gmail.com">
-  <img src="https://img.shields.io/badge/Direct_Email-00D1FF?style=for-the-badge&logo=gmail&logoColor=1a1a1a" />
-</a>
-<a href="https://www.linkedin.com/in/md-amran-hossen-713574206/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://wa.me/+8801857692587">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AJAmran&label=PROFILE%20VIEWS&color=00D1FF&style=flat-square" />
+## Contribution Graph
 
-<p>
-  <i style="color:#00D1FF;">"Relentlessly pursuing pixel-perfect engineering and sub-second performance."</i>
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" width="97%" />
+</picture>
+
+<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — requires setup in this repo's workflow to render.</sub>
+</div>
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+<a href="mailto:mdamranhossen77@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-amran-hossen-713574206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/+8801857692587"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://mdamranhossen.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
