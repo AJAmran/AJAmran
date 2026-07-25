@@ -241,7 +241,7 @@ The Institution of Engineers, Bangladesh (IEB)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AJAmran&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AJAmran&theme=onedark&no-frame=true&row=1&column=6" />
 
 </div>
 
