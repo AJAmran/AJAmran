@@ -213,22 +213,22 @@ The Institution of Engineers, Bangladesh (IEB)
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=default&hide_border=true">
+  <img src="https://github-stats-extended.vercel.app/api?username=AJAmran&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AJAmran&theme=tokyonight&hide_border=true" width="97%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AJAmran&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AJAmran&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=AJAmran&theme=tokyonight&hide_border=true" width="97%">
 </picture>
 
 <br/><br/>
@@ -241,7 +241,7 @@ The Institution of Engineers, Bangladesh (IEB)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AJAmran&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AJAmran&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
