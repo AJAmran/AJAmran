@@ -247,22 +247,6 @@ The Institution of Engineers, Bangladesh (IEB)
 
 <br/>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/AJAmran/AJAmran/output/github-contribution-grid-snake.svg" width="97%" />
-</picture>
-
-<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — requires the workflow set up in this repo to render.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:3B82F6&height=3&section=header" width="100%"/>
-
-<br/>
-
 ## 📬 Let's Connect
 
 <div align="center">
