@@ -197,7 +197,7 @@ Building internal tools and customer-facing platforms for hospitality operations
 <td width="50%" valign="top">
 
 ### 🎓 Education
-**Diploma in Computer Science & Engineering**
+**Diploma in Computer Science & Engineering** </br>
 Chattogram Polytechnic Institute
 
 </td>
