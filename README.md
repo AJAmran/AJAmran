@@ -197,8 +197,8 @@ Building internal tools and customer-facing platforms for hospitality operations
 <td width="50%" valign="top">
 
 ### 🎓 Education
-**B.Sc. in Computer Science & Engineering**
-The Institution of Engineers, Bangladesh (IEB)
+**Diploma in Computer Science & Engineering**
+Chattogram Polytechnic Institute
 
 </td>
 </tr>
